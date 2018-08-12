@@ -2,7 +2,7 @@
   "name": "open-data-jp-railway-lines-logo",
   "version": "1.0.0",
   "description": "List of Japanese railway logos in an accessible format",
-  "main": "index.js",
+  "main": "logo.json",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon --watch index.js"
